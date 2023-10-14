@@ -1,0 +1,197 @@
+/* styles.css */
+
+/* Estilos generales */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG11ZWJsZXN8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+     /* Ajusta la altura de tu encabezado */
+}
+
+/* Ajusta el espacio entre el encabezado y el cuerpo principal */
+.container {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    margin: 0 10px;
+}
+
+/* Estilos de la barra lateral */
+.sidebar {
+    left: 0;
+    display: block;
+    width: 25%;
+    height: 100vh;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+    position: fixed;
+    background-color: #f2f2f2;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.496);
+}
+
+/* Estilos de la barra de búsqueda */
+.search-bar {
+    display: flex;
+    align-items: center;
+    
+}
+
+.search-bar input {
+    width: 70%;
+    font-size: 1.5rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+
+.search-bar i {
+    font-size: 1.5rem;
+    color: #007bff;
+    cursor: pointer;
+}
+
+.sidebar select {
+    width: 70%;
+    margin: 10px 0;
+    font-size: 1.5rem;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #333;
+}
+
+/* Estilo para la clase filter que contiene los labels y selects */
+.filter {
+    display: flex; /* Hacer que el contenido se muestre en línea */
+    justify-content: space-between; /* Distribuir el espacio entre label y select */
+    align-items: center; /* Centrar verticalmente el contenido */
+}
+
+/* Estilo específico para el label */
+.filter label {
+    flex: 1; /* Hacer que el label tome el espacio disponible */
+    text-align: left; /* Alinear el texto del label a la derecha */
+    margin-right: 10px; /* Agregar un margen a la derecha para separarlo del select */
+}
+
+/* Estilo específico para el select */
+.filter select {
+    flex: 2; /* Hacer que el select tome el doble de espacio que el label */
+}
+
+
+
+
+/* Estilos del contenido principal */
+.main-content {
+    width: 100%; /* Ajusta el ancho según tus necesidades */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Estilos de los productos en 4 columnas */
+.product {
+    box-sizing: border-box;
+    width: calc(25% - 2%);
+    margin: 1%;
+    text-align: center;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.product .object img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.product h3 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #333;
+}
+
+.product p {
+    font-size: 1rem;
+    color: #777;
+    margin-top: 5px;
+}
+
+.product button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 8px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.product button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos de los objetos */
+.object {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.object img {
+    background-color: aqua;
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+/* Consulta de medios para hacer el diseño responsive */
+@media (max-width: 1024px) {
+    .sidebar {
+        right: 0;
+        left: auto;
+    }
+    
+    .main-content {
+        width: 80%; /* Ancho del 100% para que ocupe todo el ancho disponible */
+        display: block;
+        text-align: center; /* Centra el contenido horizontalmente */
+        background-color: #ceb95bb4;
+    }
+
+    /* Ajusta el tamaño de los productos para que sigan siendo el 25% del ancho total */
+    .product {
+        width: 30%;
+        margin: 10%; /* Aumenta el margen para separar los productos */
+    }
+    .product .object img {
+        min-width: 100px;
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+    }
+}
+
+
+
+

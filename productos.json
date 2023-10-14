@@ -1,0 +1,218 @@
+[
+  {
+    "nombre": "Producto 1",
+    "precio": 99.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/276055X_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Moderno",
+    "color": "Blanco",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 2",
+    "precio": 149.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3869474_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Clásico",
+    "color": "Blanco",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 3",
+    "precio": 99.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2760568_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Moderno",
+    "color": "Negro",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 4",
+    "precio": 109.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3747972_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Clásico",
+    "color": "Negro",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 5",
+    "precio": 119.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/276122X_01?wid=800&hei=800&qlt=70",
+    "material": "Metal",
+    "estilo": "Moderno",
+    "color": "Negro",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 6",
+    "precio": 369.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785201_01?wid=800&hei=800&qlt=70",
+    "material": "Metal",
+    "estilo": "Moderno",
+    "color": "Negro",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 7",
+    "precio": 399.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785139_01?wid=800&hei=800&qlt=70",
+    "material": "Metal",
+    "estilo": "Clásico",
+    "color": "Marrón",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 8",
+    "precio": 489.00,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/4065107_01?wid=800&hei=800&qlt=70",
+    "material": "Metal",
+    "estilo": "Clásico",
+    "color": "Negro",
+    "tipo": "Silla"
+  },
+  {
+    "nombre": "Producto 9",
+    "precio": 129.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2542110_01?wid=800&hei=800&qlt=70",
+    "material": "Vidrio",
+    "estilo": "Clásico",
+    "color": "Negro",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 10",
+    "precio": 299.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8834407_01?wid=800&hei=800&qlt=70",
+    "material": "Vidrio",
+    "estilo": "Clásico",
+    "color": "Negro",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 11",
+    "precio": 329.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2028425_01?wid=800&hei=800&qlt=70",
+    "material": "Vidrio",
+    "estilo": "Clásico",
+    "color": "Plomo",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 12",
+    "precio": 449.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8729395_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Clásico",
+    "color": "Marrón",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 13",
+    "precio": 179.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/4213602_01?wid=800&hei=800&qlt=70",
+    "material": "Vidrio",
+    "estilo": "Clásico",
+    "color": "Plomo",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 14",
+    "precio": 299.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/878468X_01?wid=800&hei=800&qlt=70",
+    "material": "Vidrio",
+    "estilo": "Moderno",
+    "color": "Blanco",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 15",
+    "precio": 129.90,
+    "imagenURL": "",
+    "material": "Vidrio",
+    "estilo": "Clásico",
+    "color": "Negro",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 16",
+    "precio": 1299.00,
+    "imagenURL": "",
+    "material": "Madera",
+    "estilo": "Moderno",
+    "color": "Negro",
+    "tipo": "Mesa"
+  },
+  {
+    "nombre": "Producto 17",
+    "precio": 649.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2585197_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Moderno",
+    "color": "Plomo",
+    "tipo": "Sofá"
+  },
+  {
+    "nombre": "Producto 18",
+    "precio": 449.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8958351_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Clásico",
+    "color": "Plomo",
+    "tipo": "Sofá"
+  },
+  {
+    "nombre": "Producto 19",
+    "precio": 949.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3579468_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Moderno",
+    "color": "Negro",
+    "tipo": "Sofá"
+  },
+  {
+    "nombre": "Producto 20",
+    "precio": 749.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2762471_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Clásico",
+    "color": "Marrón",
+    "tipo": "Sofá"
+  },
+  {
+    "nombre": "Producto 21",
+    "precio": 1599.00,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8723079_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Moderno",
+    "color": "Café",
+    "tipo": "Sofá"
+  },
+  {
+    "nombre": "Producto 22",
+    "precio": 1599.00,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2761661_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Clásico",
+    "color": "Marrón",
+    "tipo": "Sofá"
+  },
+  {
+    "nombre": "Producto 23",
+    "precio": 899.00,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3579638_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Moderno",
+    "color": "Plomo",
+    "tipo": "Sofá"
+  },
+  {
+    "nombre": "Producto 24",
+    "precio": 1499.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8788634_01?wid=800&hei=800&qlt=70",
+    "material": "Madera",
+    "estilo": "Clásico",
+    "color": "Verde",
+    "tipo": "Sofá"
+  }
+]
