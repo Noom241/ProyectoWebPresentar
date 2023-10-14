@@ -10,8 +10,8 @@
   },
   {
     "nombre": "Producto 2",
-    "precio": 149.90,
-    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3869474_01?wid=800&hei=800&qlt=70",
+    "precio": 159.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3869377_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
     "estilo": "Clásico",
     "color": "Blanco",
@@ -47,7 +47,7 @@
   {
     "nombre": "Producto 6",
     "precio": 369.90,
-    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785201_01?wid=800&hei=800&qlt=70",
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785112_01?wid=800&hei=800&qlt=70",
     "material": "Metal",
     "estilo": "Moderno",
     "color": "Negro",
@@ -55,8 +55,8 @@
   },
   {
     "nombre": "Producto 7",
-    "precio": 399.90,
-    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785139_01?wid=800&hei=800&qlt=70",
+    "precio": 349.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785104_01?wid=800&hei=800&qlt=70",
     "material": "Metal",
     "estilo": "Clásico",
     "color": "Marrón",
@@ -154,17 +154,17 @@
   },
   {
     "nombre": "Producto 18",
-    "precio": 449.90,
-    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8958351_01?wid=800&hei=800&qlt=70",
+    "precio": 1599.00,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/4173112_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
     "estilo": "Clásico",
-    "color": "Plomo",
+    "color": "Rosado",
     "tipo": "Sofá"
   },
   {
     "nombre": "Producto 19",
-    "precio": 949.90,
-    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3579468_01?wid=800&hei=800&qlt=70",
+    "precio": 669.90,
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2712679_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
     "estilo": "Moderno",
     "color": "Negro",
