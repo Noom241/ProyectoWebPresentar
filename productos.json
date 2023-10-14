@@ -1,6 +1,6 @@
 [
   {
-    "nombre": "Producto 1",
+    "nombre": "Silla de Madera Blanca Moderna",
     "precio": 99.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/276055X_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -9,7 +9,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 2",
+    "nombre": "Silla de Madera Blanca Clásica",
     "precio": 159.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3869377_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -18,7 +18,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 3",
+    "nombre": "Silla de Madera Negra Moderna",
     "precio": 99.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2760568_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -27,7 +27,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 4",
+    "nombre": "Silla de Madera Negra Clásica",
     "precio": 109.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3747972_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -36,7 +36,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 5",
+    "nombre": "Silla de Metal Negra Moderna",
     "precio": 119.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/276122X_01?wid=800&hei=800&qlt=70",
     "material": "Metal",
@@ -45,7 +45,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 6",
+    "nombre": "Silla de Metal Negra Moderna",
     "precio": 369.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785112_01?wid=800&hei=800&qlt=70",
     "material": "Metal",
@@ -54,7 +54,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 7",
+    "nombre": "Silla de Metal Marrón Clásica",
     "precio": 349.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8785104_01?wid=800&hei=800&qlt=70",
     "material": "Metal",
@@ -63,7 +63,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 8",
+    "nombre": "Silla de Metal Negra Clásica",
     "precio": 489.00,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/4065107_01?wid=800&hei=800&qlt=70",
     "material": "Metal",
@@ -72,7 +72,7 @@
     "tipo": "Silla"
   },
   {
-    "nombre": "Producto 9",
+    "nombre": "Mesa de Vidrio Negra Clásica",
     "precio": 129.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2542110_01?wid=800&hei=800&qlt=70",
     "material": "Vidrio",
@@ -81,7 +81,7 @@
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 10",
+    "nombre": "Mesa de Vidrio Negra Clásica ",
     "precio": 299.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8834407_01?wid=800&hei=800&qlt=70",
     "material": "Vidrio",
@@ -90,7 +90,7 @@
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 11",
+    "nombre": "Mesa de Vidrio Plomo Clásica",
     "precio": 329.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2028425_01?wid=800&hei=800&qlt=70",
     "material": "Vidrio",
@@ -99,7 +99,7 @@
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 12",
+    "nombre": "Mesa de Madera Marrón Clásica",
     "precio": 449.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8729395_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -108,7 +108,7 @@
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 13",
+    "nombre": "Mesa de Vidrio Plomo Clásica ",
     "precio": 179.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/4213602_01?wid=800&hei=800&qlt=70",
     "material": "Vidrio",
@@ -117,7 +117,7 @@
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 14",
+    "nombre": "Mesa de Vidrio Blanca Moderna",
     "precio": 299.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/878468X_01?wid=800&hei=800&qlt=70",
     "material": "Vidrio",
@@ -126,25 +126,25 @@
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 15",
+    "nombre": "Mesa de Vidrio Negra Clásica ",
     "precio": 129.90,
-    "imagenURL": "",
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/4213491_01?wid=800&hei=800&qlt=70",
     "material": "Vidrio",
     "estilo": "Clásico",
     "color": "Negro",
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 16",
+    "nombre": "Mesa de Madera Negra Moderna",
     "precio": 1299.00,
-    "imagenURL": "",
+    "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2537516_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
     "estilo": "Moderno",
     "color": "Negro",
     "tipo": "Mesa"
   },
   {
-    "nombre": "Producto 17",
+    "nombre": "Sofá de Madera Plomo Moderno",
     "precio": 649.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2585197_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -153,7 +153,7 @@
     "tipo": "Sofá"
   },
   {
-    "nombre": "Producto 18",
+    "nombre": "Sofá de Madera Rosado Clásico",
     "precio": 1599.00,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/4173112_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -162,7 +162,7 @@
     "tipo": "Sofá"
   },
   {
-    "nombre": "Producto 19",
+    "nombre": "Sofá de Madera Negro Moderno",
     "precio": 669.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2712679_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -171,7 +171,7 @@
     "tipo": "Sofá"
   },
   {
-    "nombre": "Producto 20",
+    "nombre": "Sofá de Madera Marrón Clásico",
     "precio": 749.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2762471_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -180,7 +180,7 @@
     "tipo": "Sofá"
   },
   {
-    "nombre": "Producto 21",
+    "nombre": "Sofá de Madera Café Moderno",
     "precio": 1599.00,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8723079_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -189,7 +189,7 @@
     "tipo": "Sofá"
   },
   {
-    "nombre": "Producto 22",
+    "nombre": "Sofá de Madera Marrón Clásico",
     "precio": 1599.00,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/2761661_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -198,7 +198,7 @@
     "tipo": "Sofá"
   },
   {
-    "nombre": "Producto 23",
+    "nombre": "Sofá de Madera Plomo Moderno ",
     "precio": 899.00,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/3579638_01?wid=800&hei=800&qlt=70",
     "material": "Madera",
@@ -207,7 +207,7 @@
     "tipo": "Sofá"
   },
   {
-    "nombre": "Producto 24",
+    "nombre": "Sofá de Madera Verde Clásico",
     "precio": 1499.90,
     "imagenURL": "https://sodimac.scene7.com/is/image/SodimacPeru/8788634_01?wid=800&hei=800&qlt=70",
     "material": "Madera",

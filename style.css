@@ -24,6 +24,10 @@ h2 {
     margin-bottom: 20px;
 }
 
+.mision{
+    background-color: #cf8647;
+}
+
 .productEs .card {
     margin-bottom: 20px; /* Puedes ajustar el valor según tu preferencia */
 }

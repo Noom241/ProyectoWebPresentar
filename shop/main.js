@@ -18,7 +18,7 @@ class Articulo {
                     <img src="${this.imagenURL}" alt="${this.nombre}">
                 </div>
                 <h3>${this.nombre}</h3>
-                <p>Precio: $${this.precio.toFixed(2)}</p>
+                <p>Precio: S/. ${this.precio.toFixed(2)}</p>
                 <button onclick="agregarAlCarrito('${this.id}', ${this.precio})">Agregar al carrito</button>
             </div>
         `;
